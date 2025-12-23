@@ -33,6 +33,27 @@ button {
   padding: 20px;
   border-radius: 5px;
 }
+.card {
+  background-color: wheat;
+  max-width: 500px;
+  width: 100%;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.info-row {
+  margin-top: 10px;
+}
+
+.info-row strong {
+  display: inline-block;
+  width: 130px;
+}
+
+.loading {
+  font-weight: bold;
+  text-align: center;
+}
 
 .error {
   color: red;
